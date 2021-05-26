@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mujeeb Rahman
-- 👀 I’m interested in Full stack webdevelopment
+- 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning java spring boot, angular and aws
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me : @mujeebmjrahman@gmail.com
