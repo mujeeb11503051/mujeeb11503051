@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mujeeb Rahman
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning java spring boot, angular and aws
-- 💞️ I’m looking to collaborate on any web project
+- 👀 I’m interested in software, mobile app and game development
+- 🌱 I’m currently learning unity, react, kotlin
+- 💞️ I’m looking to collaborate on any web, game and mobile app project
 - 📫 How to reach me : @mujeebmjrahman@gmail.com
 
 <!---
